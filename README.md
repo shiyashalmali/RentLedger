@@ -27,12 +27,6 @@ Usage
     - Tenants can view payment history and report complaints.
     - Owners can manage buildings, view payment statuses, and track overdue rent.
 
-Project Structure
-
-- src/ - Contains the source code.
-- resources/ - Contains the SQL scripts and other resources.
-- README.md - Project documentation.
-
 Technologies Used
 
 - Java: Core language for development.
